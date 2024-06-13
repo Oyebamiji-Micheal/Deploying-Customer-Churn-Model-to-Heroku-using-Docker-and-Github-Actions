@@ -1,5 +1,5 @@
 pandas==1.5.2
-sklearn
+scikit-learn
 joblib
 lightgbm==4.3.0
 Flask
